@@ -100,10 +100,10 @@ export default function App() {
         results: {
           flex: 2,
         justifyContent: "center",
-        backgroundColor: "#f5f5f5"
+        backgroundColor: "#1e1240"
   },
         resultText: {
-          color: "#282F38",
+          color: "#fff",
         fontSize: 32,
         fontWeight: "bold",
         padding: 12,
@@ -120,7 +120,7 @@ export default function App() {
         flexWrap: 'wrap',
   },
         button: {
-          backgroundColor: 'white',
+          backgroundColor: '#3d0075',
         alignItems: 'center',
         justifyContent: 'center',
         minWidth: 90,
@@ -128,7 +128,7 @@ export default function App() {
         flex: 2,
   },
         textButton: {
-          color: "#7c7c7c",
+          color: "#fff",
         fontSize: 20,
   } 
 });
