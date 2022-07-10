@@ -15,6 +15,7 @@ export default function App() {
     const fistNumber = parseFloat(splitNumbers[0])
     const lastNumber = parseFloat(splitNumbers[2])
     const operator = splitNumbers[1]
+    
 
     // Faz ação referente tecla pressionada
     switch (operator) {
